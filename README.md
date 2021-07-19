@@ -20,6 +20,11 @@
 
 [![samiee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
 
+# Fun:
+<br />
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 ![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
 <!--
 **mime-r/mime-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
