@@ -1,4 +1,4 @@
-## Welcome, adventurer, what brings you here?
+## 𝗪𝗲𝗹𝗰𝗼𝗺𝗲, 𝗮𝗱𝘃𝗲𝗻𝘁𝘂𝗿𝗲𝗿. 𝗪𝗵𝗮𝘁 𝗯𝗿𝗶𝗻𝗴𝘀 𝘆𝗼𝘂 𝗵𝗲𝗿𝗲?
 
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
 
