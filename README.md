@@ -13,6 +13,9 @@
 °·._.• That's all for now :p •._.·°
 😺 enjoy your stay here! ^-^
 </pre>
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
+[![mime-r StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
+
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
 
 ![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
