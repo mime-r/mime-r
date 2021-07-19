@@ -17,6 +17,7 @@
 </pre>
 ### About me:
 <br />
+
 - 🔭 I’m currently working on: nothing atm.
 - 🌱 I’m currently learning: nothing-? lol.
 - 💬 Ask me about: best refrigerator models for ducks and minions holding/eating bananas, and bananas.
