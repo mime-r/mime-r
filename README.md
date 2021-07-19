@@ -1,6 +1,7 @@
 ### \*°•ᗰIᗰE-ᖇ•°\* the 𝚍𝚞𝚌𝚔𝚎𝚛𝚊𝚝𝚘𝚛 (duck + refrigerator)
 <pre>
 ♥ Welcome, adventurer :D, to the land of happiness! 😸
+
 🦆 I'm mime-r, essentially, an entity consisting of a duck and a refrigerator.
 ✨ You may take anything you like here, and submit some pull requests if you will!
 </pre>
