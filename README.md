@@ -17,17 +17,18 @@
 </pre>
 ### About me:
 <br />
-
-![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
-
-[![samiee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
-
 - 🔭 I’m currently working on: nothing atm.
 - 🌱 I’m currently learning: nothing-? lol.
 - 💬 Ask me about: best refrigerator models for ducks and minions holding/eating bananas, and bananas.
 - 📫 How to reach me: t.me/fez_tival
 - 😄 Pronouns: he/him/it
 - ⚡ Fun fact: i'm a Samsung XY800 2-door stainless steel refrigerator.
+
+![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
+
+[![samiee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
+
+
 
 ### Fun:
 <br />
