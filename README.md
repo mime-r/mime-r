@@ -1,6 +1,6 @@
 ### hey there sussy baka 😏
 
-![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=synthwave&bg_color=50,ffd1dc,77dd77)
+![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=synthwave&bg_color=50,89aeb2,97f2f3,f1e0b0,f1cdb0,e7cfc8)
 
 <!--
 **mime-r/mime-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
