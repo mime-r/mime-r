@@ -1,7 +1,7 @@
 ### \*°•ᗰIᗰE-ᖇ•°\* the 𝚍𝚞𝚌𝚔𝚎𝚛𝚊𝚝𝚘𝚛 (duck + refrigerator)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Ruby](https://img.shields.io/badge/-Ruby-ffd1dc?style=flat-square&logo=ruby)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 <pre>
