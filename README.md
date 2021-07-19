@@ -4,6 +4,8 @@
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <pre>
 ♥ Welcome, adventurer :D, to the land of happiness! 😸
 
