@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">currently listening to:</p>
+<p align="center">
+  <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
+  </a>
+</p>
