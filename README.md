@@ -27,7 +27,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<img src='https://meme-api.herokuapp.com/gimme/url' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+![lol](https://meme-api.herokuapp.com/gimme/url)
 
 ![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
 <!--
