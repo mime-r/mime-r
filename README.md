@@ -5,7 +5,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mime-r)](https://github.com/mime-r)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3)](https://github.com/mime-r)
 <pre>
 ♥ Welcome, adventurer :D, to the land of happiness! 😸
 
