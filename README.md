@@ -1,5 +1,4 @@
-### ᗰIᗰE-ᖇ the d̲u̲c̲k̲e̲r̲a̲t̲o̲r̲
-## (duck + refrigerator)
+### ᗰIᗰE-ᖇ the 𝚍𝚞𝚌𝚔𝚎𝚛𝚊𝚝𝚘𝚛 (duck + refrigerator)
 
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
 
