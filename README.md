@@ -1,4 +1,4 @@
-### Hi there 👋
+### hey there sussy baka 😏
 
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=synthwave)
 
