@@ -22,6 +22,13 @@
 
 [![samiee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
 
+- 🔭 I’m currently working on: nothing atm.
+- 🌱 I’m currently learning: nothing-? lol.
+- 💬 Ask me about: best refrigerator models for ducks and minions holding/eating bananas, and bananas.
+- 📫 How to reach me: t.me/fez_tival
+- 😄 Pronouns: he/him/it
+- ⚡ Fun fact: i'm a Samsung XY800 2-door stainless steel refrigerator.
+
 ### Fun:
 <br />
 
@@ -34,14 +41,5 @@
 **mime-r/mime-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
