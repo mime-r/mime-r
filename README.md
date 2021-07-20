@@ -1,4 +1,4 @@
-# \*°•ᗰIᗰE-ᖇ•°\* the 𝚍𝚞𝚌𝚔𝚎𝚛𝚊𝚝𝚘𝚛 (duck + refrigerator)
+# \*°•ᗰIᗰE-ᖇ•°\* the 𝚍𝚞𝚌𝚔𝚎𝚛𝚊𝚝𝚘𝚛 (duck + refrigerator) [he/him]
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
