@@ -27,6 +27,10 @@
 
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mime-r&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&hide_border=true" alt="mime-r" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mime-r&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&layout=compact&hide_border=true" alt="mime-r" />
+
+
 [![samiee StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=8851394)](https://stackoverflow.com/users/8851394/sam-iee)
 
 
