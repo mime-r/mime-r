@@ -41,13 +41,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 ![lol](https://meme-api.herokuapp.com/gimme/url)-->
-
 ![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
-<!--
-**mime-r/mime-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 <br />
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
