@@ -4,6 +4,7 @@
 ![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
 ![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3)](https://github.com/mime-r)
 <pre>
