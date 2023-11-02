@@ -17,4 +17,3 @@
 <br />
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)-->
-<!-- ![lol](https://meme-api.herokuapp.com/gimme/url)-->
