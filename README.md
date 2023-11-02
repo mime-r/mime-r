@@ -18,9 +18,3 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)-->
 <!-- ![lol](https://meme-api.herokuapp.com/gimme/url)-->
-
-
-![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
-<br />
-
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
