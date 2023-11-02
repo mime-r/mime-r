@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html5)
 
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3)](https://github.com/mime-r)
 ![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
 
@@ -15,9 +16,12 @@
 
 <br />
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)-->
 <!-- ![lol](https://meme-api.herokuapp.com/gimme/url)-->
+
+<--
 ![Visitor Count](https://profile-counter.glitch.me/mime-r/count.svg)
 <br />
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+-->
