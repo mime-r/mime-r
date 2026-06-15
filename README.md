@@ -14,11 +14,7 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" /> Waddling through life, one commit at a time
-
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" />
 Full-stack developer from **Singapore** who loves building things that bring people together ~ whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
 
 ---
