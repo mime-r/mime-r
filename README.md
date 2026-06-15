@@ -1,12 +1,93 @@
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-181717?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-Java-181717?style=flat-square&logo=java)
-![Ruby](https://img.shields.io/badge/-Ruby-181717?style=flat-square&logo=ruby)
-![MySQL](https://img.shields.io/badge/-MySQL-181717?style=flat-square&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML-181717?style=flat-square&logo=html5)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=3B1E6B&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Samuel!;%F0%9F%91%8B%F0%9F%A6%86" alt="Typing SVG" />
+</p>
 
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3)](https://github.com/mime-r)
-![mime-r's stats](https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=🦆%20𝘮𝘪𝘮𝘦-𝘳'𝘴%20stats%20✨)
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mime-r&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b" alt="mime-r" />-->
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" /> Waddling through life, one commit at a time
+
+Full-stack developer from **Singapore** who loves building things that bring people together — whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="globe" width="16" height="16" /> Based in **Singapore**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="dev" width="16" height="16" /> Building with **TypeScript**, **Python**, **Java**, and **Ruby**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="duck" width="16" height="16" /> Founder of [**@The-Duck-Syndicate**](https://github.com/The-Duck-Syndicate) — ducks are my passion
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="music" width="16" height="16" /> Audiophile & worship musician
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="website" width="16" height="16" /> [builtfor.me](https://builtfor.me)
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Notable Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/chord-sync">🎵 chord-sync</a></h3>
+      <p>Real-time chord chart sharing for worship bands. Leaders search songs and send chord charts instantly — every member sees the same chart transposed to their preferred key.</p>
+      <p><strong>Stack:</strong> TypeScript · Next.js · WebSocket</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/AudioProphet">🎧 AudioProphet</a></h3>
+      <p>Community-driven CMS that aggregates and showcases upcoming audiophile products — from IEMs and headphones to DACs and desktop accessories, with AI-powered extraction.</p>
+      <p><strong>Stack:</strong> TypeScript · Next.js · AI</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/Dungeon.py">⚔️ Dungeon.py</a></h3>
+      <p>A Python dungeon exploration game. Venture into the unknown, battle monsters, and discover treasures.</p>
+      <p><strong>Stack:</strong> Python</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/lofi">☕ Lofi Cafe</a></h3>
+      <p>A cozy lofi music experience on the web. Chill beats to study/code/relax to.</p>
+      <p><strong>Stack:</strong> JavaScript · HTML5 · CSS3</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/SGTeens-Chatbot">💬 SGTeens Chatbot</a></h3>
+      <p>Telegram bot connecting Singaporean teens — an Omegle-style service for local conversations.</p>
+      <p><strong>Stack:</strong> Python · Telegram API</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mime-r/PyPadPRO">📝 PyPadPRO</a></h3>
+      <p>A notepad app for cool people. Lightweight, clean, and built with Python.</p>
+      <p><strong>Stack:</strong> Python</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=%F0%9F%A6%86%20mime-r's%20stats" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mime-r&layout=compact&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <i>ducks are my passion 🦆</i>
+  <br/><br/>
+  <a href="https://builtfor.me"><img src="https://img.shields.io/badge/-website-3B1E6B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/mime-r"><img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
