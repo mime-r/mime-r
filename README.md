@@ -19,28 +19,22 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" /> Waddling through life, one commit at a time
 
-Full-stack developer from **Singapore** who loves building things that bring people together — whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Asia-Australia.png" alt="globe" width="16" height="16" /> Based in **Singapore**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="dev" width="16" height="16" /> Building with **TypeScript**, **Python**, **Java**, and **Ruby**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="duck" width="16" height="16" /> Founder of [**@The-Duck-Syndicate**](https://github.com/The-Duck-Syndicate) — ducks are my passion
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="music" width="16" height="16" /> Audiophile & worship musician
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="website" width="16" height="16" /> [builtfor.me](https://builtfor.me)
+Full-stack developer from **Singapore** who loves building things that bring people together ~ whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> Notable Projects
+<b><h2>My Projects</h2></b>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mime-r/chord-sync">🎵 chord-sync</a></h3>
-      <p>Real-time chord chart sharing for worship bands. Leaders search songs and send chord charts instantly — every member sees the same chart transposed to their preferred key.</p>
+      <p>Real-time chord chart sharing for worship bands. Leaders search songs and send chord charts instantly, every member sees the same chart transposed to their preferred key.</p>
       <p><strong>Stack:</strong> TypeScript · Next.js · WebSocket</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mime-r/AudioProphet">🎧 AudioProphet</a></h3>
-      <p>Community-driven CMS that aggregates and showcases upcoming audiophile products — from IEMs and headphones to DACs and desktop accessories, with AI-powered extraction.</p>
+      <p>Community-driven CMS that aggregates and showcases upcoming audiophile products, from IEMs and headphones to DACs and desktop accessories, with AI-powered extraction.</p>
       <p><strong>Stack:</strong> TypeScript · Next.js · AI</p>
     </td>
   </tr>
@@ -48,23 +42,6 @@ Full-stack developer from **Singapore** who loves building things that bring peo
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mime-r/Dungeon.py">⚔️ Dungeon.py</a></h3>
       <p>A Python dungeon exploration game. Venture into the unknown, battle monsters, and discover treasures.</p>
-      <p><strong>Stack:</strong> Python</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/lofi">☕ Lofi Cafe</a></h3>
-      <p>A cozy lofi music experience on the web. Chill beats to study/code/relax to.</p>
-      <p><strong>Stack:</strong> JavaScript · HTML5 · CSS3</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/SGTeens-Chatbot">💬 SGTeens Chatbot</a></h3>
-      <p>Telegram bot connecting Singaporean teens — an Omegle-style service for local conversations.</p>
-      <p><strong>Stack:</strong> Python · Telegram API</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/PyPadPRO">📝 PyPadPRO</a></h3>
-      <p>A notepad app for cool people. Lightweight, clean, and built with Python.</p>
       <p><strong>Stack:</strong> Python</p>
     </td>
   </tr>
@@ -88,6 +65,6 @@ Full-stack developer from **Singapore** who loves building things that bring peo
 <p align="center">
   <i>ducks are my passion 🦆</i>
   <br/><br/>
-  <a href="https://builtfor.me"><img src="https://img.shields.io/badge/-website-3B1E6B?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <!--<a href="https://builtfor.me"><img src="https://img.shields.io/badge/-website-3B1E6B?style=for-the-badge&logo=About.me&logoColor=white" /></a>-->
   <a href="https://github.com/mime-r"><img src="https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
