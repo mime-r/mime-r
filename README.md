@@ -56,10 +56,6 @@ Full-stack developer from **Singapore** who loves building things that bring peo
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mime-r&layout=compact&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mime-r&theme=onedark&row=2&column=3&no-frame=true" alt="Trophies" />
-</p>
-
 ---
 
 <p align="center">
