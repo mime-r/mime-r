@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" />
-Full-stack developer from **Singapore** who loves building things that bring people together ~ whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
+Full-stack developer from Singapore who loves building things that bring people together ~ whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
 
 ---
 
