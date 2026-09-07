@@ -16,36 +16,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Duck.png" alt="Duck" width="25" height="25" />
 Full-stack developer from Singapore who loves building things that bring people together ~ whether it's music, audio gear, or just a good old-fashioned dungeon crawl.
-
----
-
-<b><h2>My Projects</h2></b>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/chord-sync">🎵 chord-sync</a></h3>
-      <p>Real-time chord chart sharing for worship bands. Leaders search songs and send chord charts instantly, every member sees the same chart transposed to their preferred key.</p>
-      <p><strong>Stack:</strong> TypeScript · Next.js · WebSocket</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/AudioProphet">🎧 AudioProphet</a></h3>
-      <p>Community-driven CMS that aggregates and showcases upcoming audiophile products, from IEMs and headphones to DACs and desktop accessories, with AI-powered extraction.</p>
-      <p><strong>Stack:</strong> TypeScript · Next.js · AI</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mime-r/Dungeon.py">⚔️ Dungeon.py</a></h3>
-      <p>A Python dungeon exploration game. Venture into the unknown, battle monsters, and discover treasures.</p>
-      <p><strong>Stack:</strong> Python</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="25" height="25" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mime-r&show_icons=true&theme=buefy&bg_color=45,d7e7a9,d3c0f9,f99a9c&title_color=3b1e6b&custom_title=%F0%9F%A6%86%20mime-r's%20stats" alt="GitHub Stats" width="48%" />
